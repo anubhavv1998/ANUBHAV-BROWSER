@@ -12,3 +12,14 @@ Install PyQt5 module
 Install PyQtWebEngine
 
     pip install PyQtWebEngine
+
+<hr>
+
+### ANUBHAV BROWSER<br>
+<p align="center">
+	
+![ANUBHAV BROWSER DEMO](https://github.com/anubhavv1998/ANUBHAV-BROWSER/blob/main/AnubhavBrowser.gif)
+
+</p>
+<br>
+<hr>
